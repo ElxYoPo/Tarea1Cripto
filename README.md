@@ -1,6 +1,6 @@
 # Tarea 1 criptografía
 
-Archivos importantes dentro de esta carpeta:
+Archivos importantes dentro de este repo:
 
 # Garveshop:
 - registroGarveshop.py: Registro
